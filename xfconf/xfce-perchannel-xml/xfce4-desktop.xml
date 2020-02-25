@@ -48,7 +48,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="4"/>
-          <property name="last-image" type="string" value="/home/jade/Pictures/Wallpaper/4k/stars_funnel_spiral_135761_3840x2160.jpg"/>
+          <property name="last-image" type="string" value="/home/jade/Pictures/Wallpaper/4k/mountains_peak_sun_150375_3840x2160.jpg"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-timer" type="uint" value="45"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
