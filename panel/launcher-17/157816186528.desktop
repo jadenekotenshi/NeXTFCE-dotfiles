@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Categories=System;TerminalEmulator;
+Name=Terminal
+Comment=A terminal emulator for GNUstep
+Keywords=shell;prompt;command;commandline;cmd;
+Icon=/usr/lib/GNUstep/Applications/Terminal.app/Resources/Terminal.tiff
+Exec=Terminal
+X-XFCE-Source=file:///usr/share/applications/Terminal.desktop

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=xfce4-about
+Icon=help-about
+StartupNotify=false
+Terminal=false
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+Name=About Xfce
+Comment=Information about the Xfce Desktop Environment
+X-XFCE-Source=file:///usr/share/applications/xfce4-about.desktop

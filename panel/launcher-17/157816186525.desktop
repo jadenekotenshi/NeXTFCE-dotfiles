@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=MATE Terminal
+GenericName=Terminal
+Comment=Use the command line
+TryExec=mate-terminal
+Exec=mate-terminal
+Icon=utilities-terminal
+Type=Application
+X-MATE-DocPath=mate-terminal/index.html
+X-MATE-Bugzilla-Bugzilla=MATE
+X-MATE-Bugzilla-Product=mate-terminal
+X-MATE-Bugzilla-Component=BugBuddyBugs
+X-MATE-Bugzilla-Version=1.22.1
+Categories=System;GTK;Utility;TerminalEmulator;
+StartupNotify=true
+Keywords=MATE;terminal;shell;prompt;command;commandline;
+X-XFCE-Source=file:///usr/share/applications/mate-terminal.desktop

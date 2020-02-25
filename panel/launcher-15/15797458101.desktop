@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Synergy
+Comment=Keyboard and mouse sharing solution
+Path=/usr/bin
+Exec=/usr/bin/synergy
+Icon=synergy
+Terminal=false
+Categories=Utility;
+Keywords=keyboard;mouse;sharing;network;share;
+X-XFCE-Source=file:///home/jade/Desktop/synergy.desktop

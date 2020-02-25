@@ -1,0 +1,11 @@
+[Desktop Entry]
+Terminal=0
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/xnviewmp_xnviewmp.desktop /snap/bin/xnviewmp
+Icon=/snap/xnviewmp/3/meta/gui/icon.png
+Type=Application
+Categories=Graphics;
+StartupNotify=true
+Name=XnView Multi Platform
+GenericName=XnViewMP
+MimeType=image/bmp;image/jpeg;image/png;image/tiff;image/gif;
+X-XFCE-Source=file:///var/lib/snapd/desktop/applications/xnviewmp_xnviewmp.desktop

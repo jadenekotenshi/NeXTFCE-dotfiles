@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=BasiliskII
+GenericName=Macintosh Emulator
+Comment=68k Macintosh Emulator
+Exec=BasiliskII
+Icon=basilisk2
+Type=Application
+Terminal=false
+Categories=System;Emulator;
+X-XFCE-Source=file:///usr/share/applications/basilisk2.desktop

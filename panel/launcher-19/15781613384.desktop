@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-SnapInstanceName=opera
+Version=1.0
+Name=Opera
+GenericName=Web browser
+Comment=Fast and secure web browser
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/opera_opera.desktop /snap/bin/opera %U
+Terminal=false
+Icon=/snap/opera/59/usr/share/icons/hicolor/256x256/apps/opera.png
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;application/x-opera-download;
+Actions=new-window;new-private-window;
+X-XFCE-Source=file:///var/lib/snapd/desktop/applications/opera_opera.desktop
+
+[Desktop Action new-window]
+Name=New Window
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/opera_opera.desktop /snap/bin/opera --new-window
+TargetEnvironment=Unity
+
+[Desktop Action new-private-window]
+Name=New Private Window
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/opera_opera.desktop /snap/bin/opera --private
+TargetEnvironment=Unity

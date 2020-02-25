@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Software sound renderer (MIDI sequencer, MOD player)
+Name=TiMidity++ MIDI sequencer
+Terminal=false
+Type=Application
+Exec=/usr/bin/timidity -ia %F
+Categories=AudioVideo;Audio;Sequencer;
+X-AppInstall-Package=timidity
+X-AppInstall-Section=universe
+Icon=/usr/share/pixmaps/timidity.xpm
+MimeType=audio/midi;audio/x-mod;
+Keywords=midi;sequencer
+X-XFCE-Source=file:///usr/share/applications/timidity.desktop

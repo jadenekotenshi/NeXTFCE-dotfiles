@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=XEmacs
+Comment=
+Exec=xemacs
+Icon=/usr/share/xemacs-21.4.24/etc/xemacs-icon.xpm
+Path=/home/jade
+Terminal=false
+StartupNotify=false

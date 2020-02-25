@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Sound Juicer
+GenericName=Audio CD Extractor
+Comment=Copy music from your CDs
+Keywords=Ripper;
+Exec=sound-juicer %u
+Icon=sound-juicer
+StartupNotify=true
+DBusActivatable=true
+MimeType=x-content/audio-cdda;
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;Audio;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=sound-juicer
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=3.24.0
+X-XFCE-Source=file:///usr/share/applications/org.gnome.SoundJuicer.desktop

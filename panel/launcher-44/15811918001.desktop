@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=MATE Calculator
+GenericName=Calculator
+Comment=Perform arithmetic, scientific or financial calculations
+Exec=mate-calc
+Icon=accessories-calculator
+Terminal=false
+Type=Application
+StartupNotify=true
+Keywords=calculator,MATE,scientifc,arithmetic,financial,calculations
+Categories=GTK;Utility;Calculator;
+X-MATE-DocPath=mate-calc/mate-calc.xml
+X-MATE-Bugzilla-Bugzilla=MATE
+X-MATE-Bugzilla-Product=mate-calc
+X-MATE-Bugzilla-Component=general
+X-MATE-Bugzilla-OtherBinaries=mate-calculator
+X-XFCE-Source=file:///usr/share/applications/mate-calc.desktop

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Previous
+Comment=Previous emulator
+Exec=/usr/local/bin/Previous
+Icon=/usr/local/share/previous/Previous-icon.bmp
+Path=/home/jade/vmresources/
+Terminal=false
+StartupNotify=false

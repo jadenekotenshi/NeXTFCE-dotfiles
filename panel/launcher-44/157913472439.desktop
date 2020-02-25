@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Dia
+GenericName=Diagram Editor
+X-GNOME-FullName=Dia Diagram Editor
+Comment=Edit your Diagrams
+Type=Application
+Exec=dia %F
+Icon=dia
+Terminal=false
+Categories=GNOME;Graphics;
+StartupNotify=true
+MimeType=application/x-dia-diagram;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=dia
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=@0.97+git@
+X-XFCE-Source=file:///usr/share/applications/dia.desktop
