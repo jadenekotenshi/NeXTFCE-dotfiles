@@ -165,6 +165,7 @@
       <property name="square-icons" type="bool" value="true"/>
       <property name="symbolic-icons" type="bool" value="true"/>
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-91706"/>
         <value type="string" value="Telegram Desktop"/>
         <value type="string" value="discord1"/>
         <value type="string" value="virt-manager"/>
@@ -218,7 +219,7 @@
     </property>
     <property name="plugin-28" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="157816210030.desktop"/>
+        <value type="string" value="15826749601.desktop"/>
         <value type="string" value="15807729791.desktop"/>
         <value type="string" value="157816210931.desktop"/>
         <value type="string" value="157816211932.desktop"/>
